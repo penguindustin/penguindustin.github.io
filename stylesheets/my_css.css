@@ -1,3 +1,4 @@
 .equation {
 	text-align: center;
-}
+ 	-webkit-filter: invert(100%);  
+ }
