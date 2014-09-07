@@ -3,6 +3,10 @@
  	-webkit-filter: invert(100%);  
 }
 
+.left {
+	text-align: left;
+}
+
 .question p {
 	font-style: italic;
 }
