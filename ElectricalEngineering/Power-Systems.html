@@ -51,10 +51,54 @@
 <div class="equation">
 <a href="http://www.codecogs.com/eqnedit.php?latex=\fn_cs&space;\large&space;p(t)=VI(1&plus;cos(2\omega&space;t&plus;2\delta))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\fn_cs&space;\large&space;p(t)=VI(1&plus;cos(2\omega&space;t&plus;2\delta))" title="\large p(t)=VI(1+cos(2\omega t+2\delta))" /></a>
 </div>
-<p>where V is the average voltage and I is the average current. The equation for power for a resitive load has a non-zero average power due to the 1+ and it's phase is essentially twice the phase of the input.</p>
+<p>where V is the average RMS voltage and I is the average RMS current. The equation for power for a resitive load has a non-zero average power due to the 1+ and it's phase is essentially twice the phase of the input.</p>
+
+<h3>
+  <a name="purely-resistive-loads" class="anchor" href="#purely-resistive-loads">
+    <span class="octicon octicon-link"></span>
+  </a>
+  Purely resistive loads
+</h3>
+<p>In purely inductive loads, the current lags the voltage by 90 degrees. This means:</p>
+<div class="equation">
+<a href="http://www.codecogs.com/eqnedit.php?latex=\fn_cs&space;\large&space;\beta=\delta-90^o" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\fn_cs&space;\large&space;\beta=\delta-90^o" title="\large \beta=\delta-90^o" /></a>
+</div>
+<p>power becomes simply:</p>
+<div class="equation">
+<a href="http://www.codecogs.com/eqnedit.php?latex=\fn_cs&space;\large&space;p(t)=VIsin(2\omega&space;t&plus;2\delta)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\fn_cs&space;\large&space;p(t)=VIsin(2\omega&space;t&plus;2\delta)" title="\large p(t)=VIsin(2\omega t+2\delta)" /></a>
+</div>
+<p>What this means is that ther average power absorbed is 0. No power is being transferred to the load</p>
+
+<h3>
+  <a name="purely-inductive-loads" class="anchor" href="#purely-inductive-loads">
+    <span class="octicon octicon-link"></span>
+  </a>
+  Purely inductive loads
+</h3>
+<p>In a purely inductive load the current leads the voltage by 90 degrees. This means:</p>
+<div class="equation">
+<a href="http://www.codecogs.com/eqnedit.php?latex=\fn_cs&space;\large&space;\beta=\delta&plus;90^0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\fn_cs&space;\large&space;\beta=\delta&plus;90^0" title="\large \beta=\delta+90^0" /></a>
+</div>
+<p>The equation for power becomes:</p>
+<div class="equation">
+<a href="http://www.codecogs.com/eqnedit.php?latex=\fn_cs&space;\large&space;p(t)=-VIsin(2\omega&space;t&plus;2\delta)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\fn_cs&space;\large&space;p(t)=-VIsin(2\omega&space;t&plus;2\delta)" title="\large p(t)=-VIsin(2\omega t+2\delta)" /></a>
+</div>
+<p>The thing to notice is that this equation is the negative of the power for a purely iductive load. In a purely capacitive load there is also an average of zero power transferred.</p>
+<h3>
+  <a name="purely-capacitive-loads" class="anchor" href="#purely-capacitive-loads">
+    <span class="octicon octicon-link"></span>
+  </a>
+  Purely capacitive loads
+</h3>
+
+<h3>
+  <a name="general-loads" class="anchor" href="#purely-general-loads">
+    <span class="octicon octicon-link"></span>
+  </a>
+  Purely resistive loads
+</h3>
+
 </section>
-
-
 </div>
 </body>
 </html>
