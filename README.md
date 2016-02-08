@@ -10,7 +10,7 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 
 ![Image of Wolf Tracker](./images/wolfTrackerRobot.jpg)
 
-- [Engineers-4-Exploration: Bird Collision Detection aka "Angry Birds"](http://e4e.ucsd.edu/angry-birds)
+- [Engineers-4-Exploration: Bird Collision Detection aka "Angry Birds"](https://github.com/UCSD-E4E/AngryBirds)
     * Designed the 3d Printed system enclosure
     * Programmed the image capture program triggred by bird collision
 
