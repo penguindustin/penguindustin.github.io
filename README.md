@@ -4,7 +4,6 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 
 
 ### Past Projects
-<!-- ![Image of Wolf Tracker](https://github.com/penguindustin/penguindustin.github.io/tree/master/images/wolfTrackerRobot.jpg) -->
 
 - [Engineers-4-Exploration: Wolf Tracker 2014](https://github.com/UCSD-E4E/Wolf-Tracker-2014/wiki)
     * Designed and programmed the controls system
