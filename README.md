@@ -15,6 +15,11 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
     * Programmed the image capture program triggred by bird collision
 
 ![Image of Angry Birds](http://e4e.ucsd.edu/wp-content/uploads/IMG_0232.jpg)
+
+### Guides by Yours Truly
+
+- [Snippets of C](./LearnC.html)
+	* C code in snippets w/ some explanations
  
 <!-- ### Media 
 - [Mr. UAA](http://greenandgold.uaa.alaska.edu/blog/19872/student-spotlight-dustin-mendoza/)
