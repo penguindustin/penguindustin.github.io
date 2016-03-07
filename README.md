@@ -4,6 +4,9 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 
 
 ### Past Projects
+- [ICs made in Microwind](./IC.html)
+	* 2 input NAND Gates
+	* Oscillators
 
 - [Engineers-4-Exploration: Wolf Tracker 2014](https://github.com/UCSD-E4E/Wolf-Tracker-2014/wiki)
     * Designed and programmed the controls system
@@ -20,7 +23,7 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 
 - [Snippets of C](./LearnC.html)
 	* C code in snippets w/ some explanations
- 
+
 <!-- ### Media 
 - [Mr. UAA](http://greenandgold.uaa.alaska.edu/blog/19872/student-spotlight-dustin-mendoza/)
 - [Anchorage Press "Welcome Evil Geniuses"](http://www.anchoragepress.com/news/welcome-evil-geniuses)
