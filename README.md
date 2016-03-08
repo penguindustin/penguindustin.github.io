@@ -1,6 +1,8 @@
 Welcome to my page!
 ==================
-My name is Dustin and I am currently working towards my degrees in Electrical Engineering and Computer Systems Engineering. 
+My name is Dustin and I am currently working towards my degrees in Electrical Engineering and Computer Systems Engineering.
+
+### [Link to my Portfolio](./Portfolio/PortfolioV2.html).
 
 
 ### Past Projects
