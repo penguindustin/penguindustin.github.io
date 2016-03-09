@@ -8,6 +8,7 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 - [ICs made in Microwind](./IC.html)
 	* 2 input NAND Gates
 	* Oscillators
+	
 - [Circuit and PCB Design](./CircuitDesign.html)
 	* Bare Bones Arduino
 
