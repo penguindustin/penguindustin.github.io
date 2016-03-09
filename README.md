@@ -12,6 +12,8 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 - [Circuit and PCB Design](./CircuitDesign.html)
 	* Bare Bones Arduino
 
+![Image of Bare Bones Arduino](./images/Schematics/ArduinoBareBonesBoardLayout.JPG)
+
 - [Engineers-4-Exploration: Wolf Tracker 2014](https://github.com/UCSD-E4E/Wolf-Tracker-2014/wiki)
     * Designed and programmed the controls system
 
