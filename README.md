@@ -4,11 +4,12 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 
 ### [Link to my Portfolio](./Portfolio/PortfolioV2.html).
 
-
 ### Past Projects
 - [ICs made in Microwind](./IC.html)
 	* 2 input NAND Gates
 	* Oscillators
+- [Schematics and PCB Designs](./Schematics.html)
+	* Bare Bones Arduino
 
 - [Engineers-4-Exploration: Wolf Tracker 2014](https://github.com/UCSD-E4E/Wolf-Tracker-2014/wiki)
     * Designed and programmed the controls system
