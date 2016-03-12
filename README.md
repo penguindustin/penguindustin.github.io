@@ -11,14 +11,14 @@ Past Projects
 	* Oscillators	
 - [Circuit and PCB Design](./CircuitDesign.html)
 	* Bare Bones Arduino
-	![Image of Bare Bones Arduino](./images/Schematics/ArduinoBareBonesBoardLayout.JPG)
+![Image of Bare Bones Arduino](./images/Schematics/ArduinoBareBonesBoardLayout.JPG)
 - [Engineers-4-Exploration: Wolf Tracker 2014](https://github.com/UCSD-E4E/Wolf-Tracker-2014/wiki)
     * Designed and programmed the controls system
-	![Image of Wolf Tracker](./images/wolfTrackerRobot.jpg)
+![Image of Wolf Tracker](./images/wolfTrackerRobot.jpg)
 - [Engineers-4-Exploration: Bird Collision Detection aka "Angry Birds"](https://github.com/UCSD-E4E/AngryBirds)
     * Designed the 3d Printed system enclosure
     * Programmed the image capture program triggred by bird collision
-	![Image of Angry Birds](http://e4e.ucsd.edu/wp-content/uploads/IMG_0232.jpg)
+![Image of Angry Birds](http://e4e.ucsd.edu/wp-content/uploads/IMG_0232.jpg)
 
 Guides by Yours Truly
 =====================
