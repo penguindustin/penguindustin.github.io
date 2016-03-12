@@ -4,31 +4,30 @@ My name is Dustin and I am currently working towards my degrees in Electrical En
 
 ### [Link to my Portfolio](./Portfolio/PortfolioV2.html).
 
-### Past Projects
+Past Projects
+=============
 - [ICs made in Microwind](./IC.html)
 	* 2 input NAND Gates
-	* Oscillators
-	
+	* Oscillators	
 - [Circuit and PCB Design](./CircuitDesign.html)
 	* Bare Bones Arduino
-
-![Image of Bare Bones Arduino](./images/Schematics/ArduinoBareBonesBoardLayout.JPG)
-
+	![Image of Bare Bones Arduino](./images/Schematics/ArduinoBareBonesBoardLayout.JPG)
 - [Engineers-4-Exploration: Wolf Tracker 2014](https://github.com/UCSD-E4E/Wolf-Tracker-2014/wiki)
     * Designed and programmed the controls system
-
-![Image of Wolf Tracker](./images/wolfTrackerRobot.jpg)
-
+	![Image of Wolf Tracker](./images/wolfTrackerRobot.jpg)
 - [Engineers-4-Exploration: Bird Collision Detection aka "Angry Birds"](https://github.com/UCSD-E4E/AngryBirds)
     * Designed the 3d Printed system enclosure
     * Programmed the image capture program triggred by bird collision
+	![Image of Angry Birds](http://e4e.ucsd.edu/wp-content/uploads/IMG_0232.jpg)
 
-![Image of Angry Birds](http://e4e.ucsd.edu/wp-content/uploads/IMG_0232.jpg)
-
-### Guides by Yours Truly
-
+Guides by Yours Truly
+=====================
 - [Snippets of C](./LearnC.html)
 	* C code in snippets w/ some explanations
+
+Useful Sites
+============
+- [Cincopa (great website for creating embeded slideshows)](https://www.cincopa.com/)
 
 <!-- ### Media 
 - [Mr. UAA](http://greenandgold.uaa.alaska.edu/blog/19872/student-spotlight-dustin-mendoza/)
